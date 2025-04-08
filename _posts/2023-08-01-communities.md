@@ -12,7 +12,7 @@ A few that I've come across:
 
 Women:
 - [Data Angels](http://dataangels.org/)
-- [WiDS](https://www.widsconference.org/)
+- [WiDS](https://community.widsworldwide.org/)
 - [WiMLDS](http://wimlds.org/)
 - [PyLadies](https://pyladies.com/)
 - [R-Ladies](https://rladies.org/)
@@ -26,7 +26,7 @@ Data:
 - [Academic Data Science Alliance](https://academicdatascience.org/)
 
 Aspiring Data Folks: 
-- [DataXP](https://dataxp.webflow.io/)
+- [Break Into Data](https://discord.gg/TQ2BMXJW)
 - [Analytics Mentor](https://discord.com/invite/qtqF5YbArd)
 
 Chicago:
