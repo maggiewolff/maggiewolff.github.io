@@ -1,5 +1,5 @@
 ---
-title: "Panel: Generative AI in Travel"
+title: "Panelist: Generative AI in Travel"
 collection: talks
 type: "Talk"
 permalink: /talks/2023-10-23-gbta-gen-ai-panel
