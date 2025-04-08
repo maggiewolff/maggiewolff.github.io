@@ -52,8 +52,8 @@ Skills
   
 Service and Leadership
 ======
-* Organizer and Social Media Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
+* Organizer and Marketing Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
 * WiDS Chicago Ambassador, [Women in Data Science](https://www.widsconference.org/) (2022 - present) 
-* Mentor/Mentee Organizer, [Data Angels](http://dataangels.org/) (2022 - present) 
+* Mentor/Mentee Organizer, [Data Angels](http://dataangels.org/) (2022 - 2024) 
 * [UtmostU](https://www.utmostu.org/), the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
-* Business Volunter for the Arts / Team Lead with the [Arts & Business Council of Chicago](https://artsbiz-chicago.org/) (2011 - 2018) 
+* Business Volunteer for the Arts / Team Lead with the [Arts & Business Council of Chicago](https://artsbiz-chicago.org/) (2011 - 2018) 
