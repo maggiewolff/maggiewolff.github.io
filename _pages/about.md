@@ -15,7 +15,7 @@ About Me
 
 My current work includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and more. Recently I looked at the impact of [user effort on business outcomes](https://github.com/maggiewolff/user-effort-index/blob/main/IDEAL%20-%20Maggie%20Wolff%20-%20User%20Effort.pdf). I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry. 
 
-I'm currently working in the tech industry analyzing customer success and product adoption. I have an MS in Data Science (plus that BA in Communication). I'm an ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org) and an organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/).
+I'm currently working in the tech industry analyzing customer success and product adoption. I have an MS in Data Science and a BA in Communication. I'm an ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org) and an organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/).
 
 In my spare time, I like solving my own problems with data, such as creating [my own recommender model](https://github.com/maggiewolff/running_clothes_recommender) to figure out what to wear when running through another chilly Chicago winter. 
 
