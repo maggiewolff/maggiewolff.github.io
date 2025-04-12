@@ -13,7 +13,7 @@ Data Scientist focused on product, marketing, and customer success analytics. Cu
 About Me
 ======
 
-My current work includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and more. Recently I looked at the impact of [user effort on business outcomes](https://github.com/maggiewolff/user-effort-index/blob/main/IDEAL%20-%20Maggie%20Wolff%20-%20User%20Effort.pdf). I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry. 
+My current work includes advanced analysis, A/B (hypothesis) testing, predictive modeling, and more. Recently I looked at the impact of [user effort on business outcomes](https://youtu.be/ApK1z6m9Zk0?si=RhjkAfoAFkNfyZE6). I also enjoy mentoring and [knowledge sharing](/talks/) with colleagues and others in the industry. 
 
 I'm currently working in the tech industry analyzing customer success and product adoption. I have an MS in Data Science and a BA in Communication. I'm an ambassador for [Women in Data Science (WiDS)](http:/www.widsconference.org) and an organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/).
 
