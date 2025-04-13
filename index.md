@@ -1,6 +1,7 @@
 ---
 title: Odhiambo Ian
 layout: home
+author_profile: true
 ---
 
 # Odhiambo Ian
