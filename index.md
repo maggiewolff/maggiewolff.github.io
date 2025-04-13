@@ -1,8 +1,9 @@
 ---
 title: Odhiambo Ian
-layout: home
+layout: single
 author_profile: true
 ---
+
 
 # Odhiambo Ian
 
