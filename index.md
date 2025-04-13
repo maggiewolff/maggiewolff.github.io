@@ -1,3 +1,3 @@
-# Welcome to My Portfolio
+Odhiambo Ian
 
-This is a placeholder page. My data science portfolio is under construction 🚧
+I’m a certified data scientist with a passion for using Python to analyze data, uncover insights, and solve real-world problems.
