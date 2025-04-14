@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV/Resume"
+title: "CV / Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,51 +9,108 @@ redirect_from:
 
 {% include base_path %}
 
-Work Experience
-======
-* April 2025 - present: Data Scientist, [Box](http://www.box.com)
-  * Go-to-market
+## 💼 Work Experience
 
-* July 2019 - March 2024: Data Scientist Product Analytics, [Egencia](http://www.egencia.com)
-  * Currently part of American Express Global Business Travel, formerly part of Expedia Group
-  * Partner with product managers, software engineers, UX/design to evaluate the user experience and identify opportunities for improvement via advanced analysis, A/B tests, and machine learning, using web analytics, transactional data, and client data.
+**Data Analysis Intern** — *Chasp Advisory*  
+🗓️ December 2024 – January 2025  
+- Supported the analytics team in gathering, cleaning, and analyzing data for business reports.
+- Created visual dashboards using Tableau and Power BI to help communicate insights to clients.
+- Participated in client presentations and helped automate parts of the reporting workflow.
 
-* October 2016 - July 2019: Digital Marketing Analytics Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
-  * Analyze the performance of B2C and B2B digital products (websites, mobile app, interactive directory kiosks) for 100+ shopping malls. 
-  
-* June 2013 - October 2016: Digital Marketing Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
-  * Website publishing subject matter expert, supporting 100+ mall websites, mobile app, and B2B website. Oversight for strategy, content, workflow, training, and analytics.
-  
-* January 2012 - June 2013: Digital Marketing Manager, Presence Health (now part of [Ascension Health](https://healthcare.ascension.org/))
-  * Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator. 
+**Volunteer** — *Migori Department of Public Health*  
+🗓️ 2022  
+- Supported the community health volunteer program by collecting and processing field data.  
+- Contributed to health-focused data reporting and outreach efforts.
 
+**Industrial Attachment** — *Migori County Department of Finance and Economic Planning*  
+🗓️ 2018  
+- Assisted in analyzing budget and economic planning data.
+- Participated in data entry, reporting, and visualization tasks.
 
-Education
-======
-* M.S. in Data Science, [DePaul University](https://www.cdm.depaul.edu/academics/Pages/MS-in-Data-Science.aspx), June 2022
-  * Coursework: Advanced Machine Learning, Programming Machine Learning Applications, Recommender Systems, Neural Networks & Deep Learning, Time Series Analysis, Advanced Data Analysis, Data Analysis and Regression (Linear/Logistic), Databases for Analytics (Querying), Mining Big Data (Distributed Computing), Data Visualization
-  * Capstone Project: Analysis and predictive modeling for [UtmostU](https://www.utmostu.org/), the signature program of the Network for Young Adult Success. Examined UtmostU’s data collection efforts, explored which metrics best correlate with or predict success (college degree attainment), and provided recommendations on future data collection and program structure.
-* B.A. in Communication, [Loyola University Chicago](https://www.luc.edu/), May 2004
+---
 
+## 🎓 Education
 
-  
-Skills
-======
-* Python
-  * Pandas, NumPy, MatPlotLib, Seaborn, scikit-learn, scikit-surprise, SciPy, TensorFlow, Keras  
-* R
-  * Markdown, dplry, ggplot2, tidyr, tseries, lmtest, forecast
-* SQL 
-* Tableau
-* PowerBI
-* Adobe Analytics
-* Google Analytics
-* Adobe Target 
-  
-Service and Leadership
-======
-* Organizer and Marketing Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
-* WiDS Chicago Ambassador, [Women in Data Science](https://www.widsconference.org/) (2022 - present) 
-* Mentor/Mentee Organizer, [Data Angels](http://dataangels.org/) (2022 - 2024) 
-* [UtmostU](https://www.utmostu.org/), the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
-* Business Volunteer for the Arts / Team Lead with the [Arts & Business Council of Chicago](https://artsbiz-chicago.org/) (2011 - 2018) 
+**Moringa School** — *Data Science*  
+🗓️ 2024
+
+**Microsoft Certified: Azure Fundamentals (AZ-900)**  
+🗓️ 2022
+
+**Jomo Kenyatta University of Agriculture and Technology**  
+*BSc in Economics*  
+🗓️ 2016 – 2021
+
+---
+
+## 🧠 Skills
+
+**Languages & Tools**  
+- Python, SQL, Git, GitHub  
+- Jupyter Notebooks, Google Colab  
+- Tableau, Power BI  
+
+**Data Analysis & Engineering**  
+- Data Cleaning, Feature Engineering, EDA  
+- Pandas, NumPy, Web Scraping, APIs  
+
+**Statistics & Scientific Computing**  
+- Probability, Hypothesis Testing, A/B Testing  
+- Regression Models, Distributions, Sampling  
+
+**Machine Learning**  
+- Supervised Learning: Linear/Logistic Regression, Decision Trees, KNN  
+- Unsupervised Learning: K-Means, PCA  
+- Model Evaluation: Cross-Validation, Grid Search, Pipelines  
+- Ensemble Methods: Random Forests, Gradient Boosting  
+
+**Advanced ML & AI**  
+- Neural Networks, Deep Learning with TensorFlow/Keras  
+- Natural Language Processing (NLP): Text Cleaning, Word2Vec, Sentiment Analysis  
+- Time Series Analysis, Recommender Systems  
+- Big Data Tools: PySpark, AWS (intro level)  
+
+**Visualization & Communication**  
+- Matplotlib, Seaborn  
+- Dashboarding in Tableau & Power BI  
+- Data Storytelling and Technical Communication  
+
+**Soft Skills**  
+- Team Collaboration, Communication, Career Readiness  
+- Agile Workflow, Critical Thinking, Problem Solving  
+
+---
+
+## 📊 Projects
+
+**🏠 Predictive Analysis in Property Valuation**  
+[🔗 GitHub](https://github.com/Bree-009/PREDICTIVE-ANALYSIS-IN-PROPERTY-VALUATION)  
+Used multiple linear regression to estimate property values in the real estate market.
+
+**💉 Predicting H1N1 Vaccine Uptake**  
+[🔗 GitHub](https://github.com/ian-obotey/Predicting-how-likely-individuals-are-to-get-the-H1N1-vaccines)  
+Built a KNN-based classification model to assess vaccine adoption likelihood.
+
+**🎬 Movie Recommendation System**  
+[🔗 GitHub](https://github.com/King-georges/Movie-Recommendation-system)  
+Developed a personalized movie recommender using K-Nearest Neighbors and SVD.
+
+**📚 Book Recommender System**  
+[🔗 GitHub](https://github.com/KennedyOwinoJnr/Book-Recommender-System)  
+Created a collaborative filtering engine with an interactive user interface.
+
+---
+
+## 📫 Contact
+
+- **Email:** [ianobotey@gmail.com](mailto:ianobotey@gmail.com)  
+- **GitHub:** [ian-obotey](https://github.com/ian-obotey)  
+- **LinkedIn:** [Ian Odhiambo](https://www.linkedin.com/in/ian-odhiambo-5868862b7/)
+
+---
+
+## 👥 Referee
+
+**Yvone Sara**  
+Migori County Department of Finance and Economic Planning  
+📧 [finance@migori.go.ke](mailto:finance@migori.go.ke)
