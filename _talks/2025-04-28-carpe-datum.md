@@ -14,6 +14,7 @@ location: "Online"
 Interviewed on the Carpe Datum podcast. 
 
 Data Storytelling and Practical Advice: Maggie discusses how she uses storytelling in her newsletter to inspire and support aspiring data professionals and shares a project that significantly impacted her approach.
+
 Impact of Volunteer Work: Maggie reflects on her roles as a WiDS Ambassador, Mentorship Organizer at Data Angels, and Social Media Manager for MeasureCamp Chicago, and the rewards of supporting young women in data science.
 
 Balancing Technical and User Experience: Maggie describes her work at American Express Global Business Travel on the Egencia platform, focusing on how she balances technical tasks with improving user experience and highlights a project she’s particularly proud of.
