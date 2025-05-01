@@ -25,5 +25,4 @@ Once created, you can use a User Effort Index to improve the user experience thr
 
 My talk goes through the steps of creating a User Effort Index and suggestions for how to use the metric to improve the user experience.
 
-<a href= "https://youtu.be/ApK1z6m9Zk0?si=DQTeySNc94j-N66K">
-<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/pydataglobal_screenshot.png"> </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2-0iWgVC2oc?si=79c6wB4LT9zvFZ5_&amp;start=110" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
