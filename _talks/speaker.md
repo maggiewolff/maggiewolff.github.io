@@ -23,6 +23,7 @@ I'm especially interested in events supporting women in data and tech.
 What I can talk about: 
 - PR for Data Teams: Communication Beyond Storytelling and Visualizations
 - How to Measure the User Experience and the Impact of Effort on Outcomes
+- Other topics related to analytics for marketing, product, growth, customer sucess
 - Pivoting to Analytics & Data Science
 - How to Create a Professional Network
 
