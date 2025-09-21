@@ -1,7 +1,7 @@
 ---
 title: 'Analytics Unfiltered Podcast'
-date: 
-permalink: /analytics-unfiltered/
+date: TBD
+permalink: /posts/analytics-unfiltered/
 tags:
   - podcast
 ---
