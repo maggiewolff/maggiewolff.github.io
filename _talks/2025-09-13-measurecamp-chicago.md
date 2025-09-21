@@ -19,5 +19,5 @@ PR is necessary for data teams, even if it’s just internal. Does the rest of t
 
 In this talk, I share how lessons from my previous career in public relations and marketing can be applied to your work as a data professional. 
 
-<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/measurecamp_pr-tips5.jpg" height="300"> <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/measurecamp_pr-tips3.jpg" height="300">  
+<img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/measurecamp_pr-tips_300_2.jpg" height="300"> <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/measurecamp_pr-tips_300_1.jpg" height="300">  
 
