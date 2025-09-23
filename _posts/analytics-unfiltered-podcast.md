@@ -1,10 +1,11 @@
 ---
-title: 'Analytics Unfiltered Podcast'
-date: TBD
-permalink: /posts/analytics-unfiltered/
+title: 'The Data Behind Your Favorite Music - featuring Chris Dalla Riva'
+permalink: /posts/2025/09/podcast/
 tags:
   - podcast
 ---
+
+
 
 I enjoy chatting with other data pros, and often end the conversations wishing I had recorded them! 
 
