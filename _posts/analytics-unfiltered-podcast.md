@@ -1,7 +1,7 @@
 ---
 title: 'Analytics Unfiltered Podcast'
-date: 2025-12-31
-permalink: /posts/2025/12/podcast/
+date: 
+permalink: /posts/podcast/
 tags:
   - podcast
 ---
