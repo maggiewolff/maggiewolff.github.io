@@ -6,6 +6,8 @@ tags:
   - podcast
 ---
 
-I chat with data pros 
+I enjoy chatting with other data pros, and often end the conversations wishing I had recorded them! 
 
-Listen on: 
+So welcome to _Analytics Unfiltered: Conversations that Cut Through the Noise, where I chat with other data pros about whatever is interesting about them or whatever is on our minds.
+
+Listen on: [Spotify](https://open.spotify.com/show/2WPcLA977vNG1s7R1emoDG?si=38cb88e0a03b4105) | [Apple](https://podcasts.apple.com/us/podcast/analytics-unfiltered-podcast/id1840294380) | [YouTube](https://www.youtube.com/playlist?list=PLZNRMX2lxqEZeutEOOnvNqFvS5xZcsTYr) | [Substack](https://datastoryteller.substack.com/podcast)
