@@ -14,6 +14,10 @@ Listen on:
 *  [YouTube](https://youtu.be/ePhJ9s16CSA?si=2BuK4-rHDfT0vaI2)
 *  [Substack](https://open.substack.com/pub/datastoryteller/p/the-data-behind-your-favorite-music)
 
+Transcripts available on YouTube and Substack. 
+
+Description: 
+
 Chris Dalla Riva lives at the intersection of music and data. Playing in bands and recording music since his teenage years, Dalla Riva is currently a Senior Product Manager at Audiomack where he focuses on data analytics and personalization. His first book is a data-driven history of popular music called 'Uncharted Territory: What Numbers Tell Us about the Biggest Hit Songs and Ourselves'. It is due out via Bloomsbury on November 13, 2025. He wrote it as he spent years listening to, and building a dataset about, every number one song in history. If you want to keep up with Chris, you can check out his biweekly newsletter 'Can't Get Much Higher' or his TikTok page where he regularly posts to his 100k+ followers about music and data. 
 
 Links: 
@@ -21,3 +25,4 @@ Links:
 * Subscribe to his newsletter: [Can't Get Much Higher](https://www.cantgetmuchhigher.com)
 * Follow Chris on TikTok: [@cdallarivamusic](https://www.tiktok.com/@cdallarivamusic)
 * Follow Chris on YouTube: [@cdallarivamusic](https://www.youtube.com/@cdallarivamusic)
+
