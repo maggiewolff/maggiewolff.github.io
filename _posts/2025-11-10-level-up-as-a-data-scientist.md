@@ -8,6 +8,14 @@ tags:
 
 In this episode, I chat with Mark, a fellow data scientist, to answer questions about career development and the real-world practice of data science.
 
+Listen on: 
+* [Spotify](https://open.spotify.com/episode/5WWd6xiUL1vP02qXt90PDI?si=Gm7KGy-RSPChHe6tdC9hbw)
+* [Apple](https://podcasts.apple.com/us/podcast/how-to-level-up-as-a-data-scientist-convo-with-mark/id1840294380?i=1000736102939)
+* [YouTube](https://youtu.be/PWhKsBNX6Us)
+* [Substack](https://datastoryteller.substack.com/p/how-to-level-up-as-a-data-scientist)
+
+Transcripts available on YouTube and Substack. 
+
 We discussed:
 * The value of a master’s degree in data science
 * Mentorship and career coaching
@@ -29,10 +37,3 @@ Key Takeaways
 * The most valued projects are those that clearly improve business outcomes.
 * Career pivots and non-linear paths can become your greatest asset.
 
-Listen on: 
-* [Spotify](https://open.spotify.com/episode/5WWd6xiUL1vP02qXt90PDI?si=Gm7KGy-RSPChHe6tdC9hbw)
-* [Apple](https://podcasts.apple.com/us/podcast/how-to-level-up-as-a-data-scientist-convo-with-mark/id1840294380?i=1000736102939)
-* [YouTube](https://youtu.be/PWhKsBNX6Us)
-* [Substack](https://datastoryteller.substack.com/p/how-to-level-up-as-a-data-scientist)
-
-Transcripts available on YouTube and Substack. 
