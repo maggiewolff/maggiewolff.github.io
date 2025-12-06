@@ -14,3 +14,4 @@ location: "Online"
 Interviewed on the Women Lead Data podcast. Shared my career journey including my pivot from marketing to analytics/data science and talked about the importance of mentoring and how to build your personal brand.
 
 <img src="https://raw.githubusercontent.com/maggiewolff/maggiewolff.github.io/master/images/women-lead-data.jfif"> 
+
