@@ -21,7 +21,7 @@ In my spare time, I like solving my own problems with data, such as creating [my
 
 However, I haven't always worked with data. Despite a love of math and coding when I was younger (Math Olympics in elementary school, Mathletes in high school, plus coding my own websites in my free time), I took a detour in college to study Communication and started my career in marketing and public relations. It sounded glamorous and exciting, but I kept gravitating towards more technical responsibilities, eventually finding myself in a marketing analytics role in 2016 - and absolutely loving it. But my liberal arts background meant I had many skill gaps when it came to what was required for an analytics career, so I enrolled in a graduate data science program part-time while working full-time, in order to learn everything I possibly could about working with data. 
 
-Learning data science and working in analytics has been a perfect fit for my calculator brain, but also provides great opportunities to communicate complex messages - so my original career path still comes in handy.  
+Learning data science and working in analytics has been a perfect fit for my calculator brain, but also provides great opportunities to communicate complex messages - so my original career path still comes in handy. Lately I've been reflecting on the [PR strategies that are useful for data teams](https://youtu.be/fGWRp16p7sE?si=5NS5a10_70ERmnrB). 
 
 In my free time, I dance (and occasionally perform) with the [Chicago Chorus Girls Project](https://www.instagram.com/chicagochorusgirls/) and work out with [November Project Chicago](https://www.instagram.com/novemberprojectchicago/). 
 
