@@ -12,7 +12,7 @@ redirect_from:
 Work Experience
 ======
 * April 2025 - present: Data Scientist, [Box](http://www.box.com)
-  * Go-to-market
+  * Support go-to-market teams with data-driven decision making 
 
 * July 2019 - March 2024: Data Scientist Product Analytics, [Egencia](http://www.egencia.com)
   * Currently part of American Express Global Business Travel, formerly part of Expedia Group
@@ -24,7 +24,7 @@ Work Experience
 * June 2013 - October 2016: Digital Marketing Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
   * Website publishing subject matter expert, supporting 100+ mall websites, mobile app, and B2B website. Oversight for strategy, content, workflow, training, and analytics.
   
-* January 2012 - June 2013: Digital Marketing Manager, Presence Health (now part of [Ascension Health](https://healthcare.ascension.org/))
+* January 2012 - June 2013: Digital Marketing Manager, [Presence Health](https://en.wikipedia.org/wiki/Presence_Health)
   * Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator. 
 
 
