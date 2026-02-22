@@ -1,5 +1,5 @@
 ---
-title: 'Lessons from a nonlinear data science career in the age of AI'
+title: 'Nonlinear Career Paths to Data Science'
 date: 2026-01-06
 permalink: /posts/2026/01/lessons-from-a-nonlinear-path/
 tags:
