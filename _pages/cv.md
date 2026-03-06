@@ -11,10 +11,10 @@ redirect_from:
 
 Work Experience
 ======
-* April 2025 - present: Data Scientist, [Box](http://www.box.com)
+* April 2025 - present: Data Scientist Business Analytics, [Box](http://www.box.com)
   * Support go-to-market teams with data-driven decision making 
 
-* July 2019 - March 2024: Data Scientist Product Analytics, [Egencia](http://www.egencia.com)
+* July 2019 - March 2025: Data Scientist Product Analytics, [Egencia](http://www.egencia.com)
   * Currently part of American Express Global Business Travel, formerly part of Expedia Group
   * Partner with product managers, software engineers, UX/design to evaluate the user experience and identify opportunities for improvement via advanced analysis, A/B tests, and machine learning, using web analytics, transactional data, and client data.
 
@@ -52,8 +52,9 @@ Skills
   
 Service and Leadership
 ======
+* Global Leaders Committee member, [Women in Data Science Worldwide](https://www.widsworldwide.org/get-inspired/blog/introducing-the-wids-global-leaders-committee-2026/)(2026 - present)
 * Organizer and Marketing Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
-* WiDS Chicago Ambassador, [Women in Data Science](https://www.widsconference.org/) (2022 - present) 
-* Mentor/Mentee Organizer, [Data Angels](http://dataangels.org/) (2022 - 2024) 
-* [UtmostU](https://www.utmostu.org/), the Network for Young Adult Success, Chicago - Graduate Research Capstone Project (2021) 
-* Business Volunteer for the Arts / Team Lead with the [Arts & Business Council of Chicago](https://artsbiz-chicago.org/) (2011 - 2018) 
+* Ambassador/Organizer, [Women in Data Science Chicago](https://www.widschicago.org/) (2022 - present) 
+* Mentor Program Organizer, [Data Angels](http://dataangels.org/) (2022 - 2024) 
+* Graduate Research Capstone Project, [UtmostU](https://www.utmostu.org/), the Network for Young Adult Success  (2021) 
+* Business Volunteer for the Arts / Team Lead, [Arts & Business Council of Chicago](https://artsbiz-chicago.org/) (2011 - 2018) 
