@@ -52,7 +52,7 @@ Skills
   
 Service and Leadership
 ======
-* Global Leaders Committee member, [Women in Data Science Worldwide](https://www.widsworldwide.org/get-inspired/blog/introducing-the-wids-global-leaders-committee-2026/)(2026 - present)
+* Global Leaders Committee member, [Women in Data Science Worldwide](https://www.widsworldwide.org/get-inspired/blog/introducing-the-wids-global-leaders-committee-2026/) (2026 - present)
 * Organizer and Marketing Manager, [MeasureCamp Chicago](https://chicago.measurecamp.org/) (2024 - present)
 * Ambassador/Organizer, [Women in Data Science Chicago](https://www.widschicago.org/) (2022 - present) 
 * Mentor Program Organizer, [Data Angels](http://dataangels.org/) (2022 - 2024) 
