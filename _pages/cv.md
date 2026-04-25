@@ -15,17 +15,20 @@ Work Experience
   * Support go-to-market teams with data-driven decision making 
 
 * July 2019 - March 2025: Data Scientist Product Analytics, [Egencia](http://www.egencia.com)
-  * Currently part of American Express Global Business Travel, formerly part of Expedia Group
+  * Part of American Express Global Business Travel, formerly part of Expedia Group
   * Partner with product managers, software engineers, UX/design to evaluate the user experience and identify opportunities for improvement via advanced analysis, A/B tests, and machine learning, using web analytics, transactional data, and client data.
 
 * October 2016 - July 2019: Digital Marketing Analytics Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
   * Analyze the performance of B2C and B2B digital products (websites, mobile app, interactive directory kiosks) for 100+ shopping malls. 
   
-* June 2013 - October 2016: Digital Marketing Manager, [Brookfield Properties Retail](https://www.brookfieldproperties.com/en/our-businesses/retail.html)
+* June 2013 - October 2016: Digital Marketing Manager, [GGP](https://www.ggp.com/)
   * Website publishing subject matter expert, supporting 100+ mall websites, mobile app, and B2B website. Oversight for strategy, content, workflow, training, and analytics.
   
 * January 2012 - June 2013: Digital Marketing Manager, [Presence Health](https://en.wikipedia.org/wiki/Presence_Health)
   * Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator. 
+
+* September 2006 - January 2011: PR & Marketing Associate, [Provena Health](https://www.linkedin.com/company/provena-health/)
+  * Internal and external communications for hospital & healthcare system, including public relations, website content (both public-facing and intranet), print magazines (for the community and for employees), and printed materials (both for external marketing and internal communication). 
 
 
 Education
