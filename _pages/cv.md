@@ -27,7 +27,7 @@ Work Experience
 * January 2012 - June 2013: Digital Marketing Manager, [Presence Health](https://en.wikipedia.org/wiki/Presence_Health)
   * Managed all owned digital marketing channels, including social media, email marketing, search engine marketing. Supervised Online Data Coordinator. 
 
-* September 2006 - January 2011: PR & Marketing Associate, [Provena Health](https://www.linkedin.com/company/provena-health/)
+* September 2006 - January 2012: PR & Marketing Associate, [Provena Health](https://www.linkedin.com/company/provena-health/)
   * Internal and external communications for hospital & healthcare system, including public relations, website content (both public-facing and intranet), print magazines (for the community and for employees), and printed materials (both for external marketing and internal communication). 
 
 
