@@ -21,10 +21,11 @@ Who am I?
 I'm especially interested in events supporting women in data and tech. 
 
 What I can talk about: 
-- Public Relations for Data Teams: Building Trust and Visibility 
-- How to Measure the User Experience and the Impact of Effort on Outcomes
-- Other topics related to business analytics such as ecommerce, marketing, product/UX, growth, customer success
-- Pivoting to Analytics & Data Science
+- [Public Relations for Data Teams: Building Trust and Visibility](https://maggiewolff.github.io/talks/2025-12-06-pyladiescon) 
+- [How to Measure the User Experience and the Impact of Effort on Outcomes](https://maggiewolff.github.io/talks/2025-05-07-mds-fest)
+- [What is Data Science? (For a high school audience)](https://maggiewolff.github.io/talks/2025-06-27-girlcon)
+- Other topics related to business analytics such as e-commerce, marketing, product/UX, growth, customer success
+- Pivoting to Analytics & Data Science from Marketing/PR/Comms
 - How to Create a Professional Network
 
 Contact me via [magwolff@gmail.com](mailto:magwolff@gmail.com) to discuss further. 
