@@ -16,6 +16,6 @@ I'm a data scientist in the tech industry, focused on e-commerce, customer succe
 
 I hold an MS in Data Science and a BA in Communication, a unique combination that shapes how I work: I enjoy translating complex findings for stakeholders as much as doing the analysis itself. My path to data wasn't linear — [I started in marketing and PR](https://data-storyteller.medium.com/my-journey-from-marketing-to-data-science-6611bac42480) before pivoting into analytics & data science, a background that makes me a stronger collaborator and communicator. I bring a lot of my [PR mindset into my analytics work](https://youtu.be/fGWRp16p7sE?si=5NS5a10_70ERmnrB). 
 
-Outside of work, I'm an ambassador for [Women in Data Science (WiDS) Chicago](https://widschicago.org/), an organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/), and host a [very sporadic podcast](/posts/) featuring conversations with other data professionals. 
+Outside of work, I'm an ambassador for [Women in Data Science (WiDS) Chicago](https://widschicago.org/), an organizer for [MeasureCamp Chicago](https://chicago.measurecamp.org/), and host a [very sporadic podcast](https://datastoryteller.substack.com/podcast) featuring conversations with other data professionals. 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/magwolff).  
